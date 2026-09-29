@@ -13,7 +13,7 @@ const CONFIG = {
     coupleName2: "Tulip Akter",
     anniversaryDate: "2026-09-16T00:00:00",
 
-    profilePhoto: "assets/images/pic1.jpeg",
+    profilePhoto: "assets/images/WhatsApp Image 2026-09-29 at 7.28.59 PM.jpeg",
     backgroundMusic: "assets/music/song.mp3?v=20260911_05",
 
     loveLetter: `My Dearest Tulip,
@@ -49,76 +49,6 @@ and choose you more with every passing second.`,
     ],
 
     memories: [
-        {
-            image: "assets/images/Story/Lajuk lokhi amar.jpg",
-            date: "My Queen",
-            title: "লাজুক লক্ষ্মী আমার 🌸👰",
-            location: "In Arman's Heart",
-            description: "সায়েদুলের সবচেয়ে আদরের, সবচেয়ে মায়ার লাজুক লক্ষ্মী মিম। ওর লজ্জা রাঙা মুখ আর মিষ্টি হাসি সায়েদুলের জীবনের শ্রেষ্ঠ উপহার।"
-        },
-        {
-            image: "assets/images/Story/lettel Tulip.jpg",
-            date: "Little Angel",
-            title: "Little Tulip — ছোট্ট মিম 👼✨",
-            location: "Where It All Began",
-            description: "একদিন এই পৃথিবীতে জন্ম নিয়েছিল এক মিষ্টি নিষ্পাপ ছোট্ট পরী, যে বড় হয়ে সায়েদুলের পুরো জগৎ আলোয় ভরিয়ে দেবে।"
-        },
-        {
-            image: "assets/images/Story/when we meet frist time.jpg",
-            date: "The First Glance",
-            title: "প্রথম দেখা 🌸👀",
-            location: "Our Unforgettable Spot",
-            description: "প্রথমবার চোখে চোখ পড়ার সেই জাদুকরী মুহূর্ত! চোখের পলক ফেলা বন্ধ হয়ে গিয়েছিল, হৃদয়ে হয়েছিল অনন্ত ভালোবাসার শুরু।"
-        },
-        {
-            image: "assets/images/Story/we meet frist time in jp after your class.jpg",
-            date: "After Class Meeting",
-            title: "ক্লাস শেষে সেই দেখা 🏫💌",
-            location: "JP Meeting Place",
-            description: "টিউলিপের ক্লাস শেষ হওয়ার ব্যাকুল অপেক্ষা... তারপর জেপিতে আমাদের সেই মিষ্টি দেখা! একসাথে হাঁটার সেই অমূল্য অনুভূতি।"
-        },
-        {
-            image: "assets/images/Story/Rain and somthing hapend.jpg",
-            date: "Rainy Magic",
-            title: "বৃষ্টির সেই গল্প 🌧️❤️",
-            location: "Under The Rain Sky",
-            description: "ঝুম বৃষ্টি আর সেই বৃষ্টির প্রতিটি শীতল ফোঁটায় রচিত হয়েছিল আমাদের এক মধুর গোপন গল্প। বৃষ্টিভেজা বাতাসে ভালোবাসার গভীর অনুভব।"
-        },
-        {
-            image: "assets/images/Story/She made for me.jpg",
-            date: "Sweet Care",
-            title: "টিউলিপের নিজ হাতে তৈরি 🎁🧁",
-            location: "Crafted With Love",
-            description: "টিউলিপ যখন পরম মমতা আর ভালোবাসায় নিজের কোমল হাত দিয়ে সায়েদুলের জন্য কিছু বানায়। সেই জিনিসের মাঝে জড়িয়ে থাকে তার অসীম যত্ন।"
-        },
-        {
-            image: "assets/images/Story/Unbeleable Story wher that day your birhday.jpg",
-            date: "Birthday Adventure",
-            title: "জন্মদিনের সেই গল্প 🎂🎉",
-            location: "Birthday Surprise",
-            description: "টিউলিপের জন্মদিনের সেই দিনটির গল্প কোনো রোমাঞ্চকর সিনেমার চেয়ে কম ছিল না! এক অবিশ্বাস্য মুহূর্ত, সারপ্রাইজ, আর অন্তহীন হাসি-আনন্দের স্মৃতি।"
-        },
-        {
-            image: "assets/images/pic1.jpeg",
-            date: "Cute Little Anger",
-            title: "যখন সে রাগ করে ❤️",
-            location: "Her Sweet Dramatic Moods",
-            description: "রাগ করলেও টিউলিপকে পৃথিবীর সবচেয়ে সুন্দর লাগে। ওর সেই মিষ্টি অভিমান আর গম্ভীর মুখ নিমেষেই সায়েদুলের মন গলিয়ে দেয়!"
-        },
-        {
-            image: "assets/images/pic4.jpeg",
-            date: "চোখের মায়াবী চাহনি",
-            title: "চোখের মায়া ✨👀",
-            location: "In Your Enchanting Eyes",
-            description: "টিউলিপের সেই গভীর মায়াবী অপলক চাহনি... যে চোখের দিকে তাকালে পৃথিবীর সব ক্লান্তি মুছে যায় এবং সায়েদুল বারবার নতুন করে প্রেমে পড়ে!"
-        },
-        {
-            image: "assets/images/pic5.jpeg",
-            date: "সেই মিষ্টি শেষ দেখা",
-            title: "লাস্ট টাইম যেদিন দেখা হলো ❤️",
-            location: "Our Unforgettable Meeting",
-            description: "লাস্ট টাইম যেদিন দেখা হলো—তোমার সেই দুষ্টু মিষ্টি রাগ আর আদুরে অভিমান! বিদায়ের সেই আবেগঘন স্মৃতি সায়েদুলের হৃদয়ে আজীবন অমলিন থাকবে।"
-        },
         { image: "assets/images/WhatsApp Image 2026-09-29 at 7.28.59 PM.jpeg", date: "Arman & Tulip", title: "আমাদের মুহূর্ত ❤️✨", location: "Together Forever", description: "প্রতিটি মুহূর্ত যেন একটি স্বপ্নের পাতা — Arman আর Tulip এর এই অমূল্য স্মৃতি চিরকাল হৃদয়ে জ্বলজ্বল করবে।" },
         { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.00 PM.jpeg", date: "Sweet Moments", title: "মিষ্টি স্মৃতি 💖", location: "Our Special Place", description: "ভালোবাসার রঙে আঁকা এই মুহূর্তগুলো Arman ও Tulip এর জীবনের সেরা অধ্যায়।" },
         { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.00 PM (1).jpeg", date: "Love Story", title: "আমাদের প্রেমের গল্প 🌸", location: "Our World", description: "দুটি হৃদয়, একটি গল্প — Tulip আর Arman এর ভালোবাসার এই সুন্দর অধ্যায়।" },
