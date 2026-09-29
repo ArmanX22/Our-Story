@@ -1,4 +1,4 @@
-﻿/**
+/**
  * ============================================================================
  * OUR STORY ❤️ — A CINEMATIC ROMANTIC STORYBOOK JOURNEY
  * DEDICATED TO: Md Arman & Tulip Akter
@@ -1251,9 +1251,9 @@ function initUniverse() {
         return new THREE.Mesh(geo, mat);
     };
 
-    const starMim = createGlowingStarMesh(0xff6f9f); // Rose Pink (Tulip)
+    const starTulip = createGlowingStarMesh(0xff6f9f); // Rose Pink (Tulip)
     const starArman = createGlowingStarMesh(0xd8b477); // Champagne Gold (Arman)
-    scene.add(starMim);
+    scene.add(starTulip);
     scene.add(starArman);
 
     let mergeProgress = 0;
