@@ -1,7 +1,7 @@
-/**
+﻿/**
  * ============================================================================
  * OUR STORY ❤️ — A CINEMATIC ROMANTIC STORYBOOK JOURNEY
- * DEDICATED TO: Md Sayadul Islam & Mim Akter
+ * DEDICATED TO: Md Arman & Tulip Akter
  * ============================================================================
  */
 
@@ -9,14 +9,14 @@
    1. CENTRAL CONFIGURATION
    ============================================================================ */
 const CONFIG = {
-    coupleName1: "Md Sayadul Islam",
-    coupleName2: "Mim Akter",
+    coupleName1: "Md Arman",
+    coupleName2: "Tulip Akter",
     anniversaryDate: "2026-09-16T00:00:00",
 
     profilePhoto: "assets/images/pic1.jpeg",
     backgroundMusic: "assets/music/song.mp3?v=20260911_05",
 
-    loveLetter: `My Dearest Mim,
+    loveLetter: `My Dearest Tulip,
 
 Thank you for coming into my life and turning my whole world into a beautiful dream.
 
@@ -31,18 +31,18 @@ I promise to hold your hand, make you laugh,
 and choose you more with every passing second.`,
 
     reasons: [
-        "Your breathtaking smile that brightens my whole day, Mim.",
+        "Your breathtaking smile that brightens my whole day, Tulip.",
         "The gentle kindness and warmth inside your heart.",
         "The way your eyes sparkle whenever you laugh.",
         "Even your cute little anger and dramatic moments!",
         "You make every place feel like home when I'm with you.",
-        "Because loving you, Mim, is the easiest and best thing I have ever done."
+        "Because loving you, Tulip, is the easiest and best thing I have ever done."
     ],
 
     futurePlans: [
         "More Adventures Together",
         "Late Night Long Drives & Coffee",
-        "A Million Laughs with Mim",
+        "A Million Laughs with Tulip",
         "Endless Cute Pictures & Memories",
         "Achieving Our Dreams Side by Side",
         "Growing Old and Loving You Forever"
@@ -53,13 +53,13 @@ and choose you more with every passing second.`,
             image: "assets/images/Story/Lajuk lokhi amar.jpg",
             date: "My Queen",
             title: "লাজুক লক্ষ্মী আমার 🌸👰",
-            location: "In Sayadul's Heart",
+            location: "In Arman's Heart",
             description: "সায়েদুলের সবচেয়ে আদরের, সবচেয়ে মায়ার লাজুক লক্ষ্মী মিম। ওর লজ্জা রাঙা মুখ আর মিষ্টি হাসি সায়েদুলের জীবনের শ্রেষ্ঠ উপহার।"
         },
         {
-            image: "assets/images/Story/lettel MiM.jpg",
+            image: "assets/images/Story/lettel Tulip.jpg",
             date: "Little Angel",
-            title: "Little Mim — ছোট্ট মিম 👼✨",
+            title: "Little Tulip — ছোট্ট মিম 👼✨",
             location: "Where It All Began",
             description: "একদিন এই পৃথিবীতে জন্ম নিয়েছিল এক মিষ্টি নিষ্পাপ ছোট্ট পরী, যে বড় হয়ে সায়েদুলের পুরো জগৎ আলোয় ভরিয়ে দেবে।"
         },
@@ -75,7 +75,7 @@ and choose you more with every passing second.`,
             date: "After Class Meeting",
             title: "ক্লাস শেষে সেই দেখা 🏫💌",
             location: "JP Meeting Place",
-            description: "মিমের ক্লাস শেষ হওয়ার ব্যাকুল অপেক্ষা... তারপর জেপিতে আমাদের সেই মিষ্টি দেখা! একসাথে হাঁটার সেই অমূল্য অনুভূতি।"
+            description: "টিউলিপের ক্লাস শেষ হওয়ার ব্যাকুল অপেক্ষা... তারপর জেপিতে আমাদের সেই মিষ্টি দেখা! একসাথে হাঁটার সেই অমূল্য অনুভূতি।"
         },
         {
             image: "assets/images/Story/Rain and somthing hapend.jpg",
@@ -87,30 +87,30 @@ and choose you more with every passing second.`,
         {
             image: "assets/images/Story/She made for me.jpg",
             date: "Sweet Care",
-            title: "মিমের নিজ হাতে তৈরি 🎁🧁",
+            title: "টিউলিপের নিজ হাতে তৈরি 🎁🧁",
             location: "Crafted With Love",
-            description: "মিম যখন পরম মমতা আর ভালোবাসায় নিজের কোমল হাত দিয়ে সায়েদুলের জন্য কিছু বানায়। সেই জিনিসের মাঝে জড়িয়ে থাকে তার অসীম যত্ন।"
+            description: "টিউলিপ যখন পরম মমতা আর ভালোবাসায় নিজের কোমল হাত দিয়ে সায়েদুলের জন্য কিছু বানায়। সেই জিনিসের মাঝে জড়িয়ে থাকে তার অসীম যত্ন।"
         },
         {
             image: "assets/images/Story/Unbeleable Story wher that day your birhday.jpg",
             date: "Birthday Adventure",
             title: "জন্মদিনের সেই গল্প 🎂🎉",
             location: "Birthday Surprise",
-            description: "মিমের জন্মদিনের সেই দিনটির গল্প কোনো রোমাঞ্চকর সিনেমার চেয়ে কম ছিল না! এক অবিশ্বাস্য মুহূর্ত, সারপ্রাইজ, আর অন্তহীন হাসি-আনন্দের স্মৃতি।"
+            description: "টিউলিপের জন্মদিনের সেই দিনটির গল্প কোনো রোমাঞ্চকর সিনেমার চেয়ে কম ছিল না! এক অবিশ্বাস্য মুহূর্ত, সারপ্রাইজ, আর অন্তহীন হাসি-আনন্দের স্মৃতি।"
         },
         {
             image: "assets/images/pic1.jpeg",
             date: "Cute Little Anger",
             title: "যখন সে রাগ করে ❤️",
             location: "Her Sweet Dramatic Moods",
-            description: "রাগ করলেও মিমকে পৃথিবীর সবচেয়ে সুন্দর লাগে। ওর সেই মিষ্টি অভিমান আর গম্ভীর মুখ নিমেষেই সায়েদুলের মন গলিয়ে দেয়!"
+            description: "রাগ করলেও টিউলিপকে পৃথিবীর সবচেয়ে সুন্দর লাগে। ওর সেই মিষ্টি অভিমান আর গম্ভীর মুখ নিমেষেই সায়েদুলের মন গলিয়ে দেয়!"
         },
         {
             image: "assets/images/pic4.jpeg",
             date: "চোখের মায়াবী চাহনি",
             title: "চোখের মায়া ✨👀",
             location: "In Your Enchanting Eyes",
-            description: "মিমের সেই গভীর মায়াবী অপলক চাহনি... যে চোখের দিকে তাকালে পৃথিবীর সব ক্লান্তি মুছে যায় এবং সায়েদুল বারবার নতুন করে প্রেমে পড়ে!"
+            description: "টিউলিপের সেই গভীর মায়াবী অপলক চাহনি... যে চোখের দিকে তাকালে পৃথিবীর সব ক্লান্তি মুছে যায় এবং সায়েদুল বারবার নতুন করে প্রেমে পড়ে!"
         },
         {
             image: "assets/images/pic5.jpeg",
@@ -118,7 +118,34 @@ and choose you more with every passing second.`,
             title: "লাস্ট টাইম যেদিন দেখা হলো ❤️",
             location: "Our Unforgettable Meeting",
             description: "লাস্ট টাইম যেদিন দেখা হলো—তোমার সেই দুষ্টু মিষ্টি রাগ আর আদুরে অভিমান! বিদায়ের সেই আবেগঘন স্মৃতি সায়েদুলের হৃদয়ে আজীবন অমলিন থাকবে।"
-        }
+        },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.28.59 PM.jpeg", date: "Arman & Tulip", title: "আমাদের মুহূর্ত ❤️✨", location: "Together Forever", description: "প্রতিটি মুহূর্ত যেন একটি স্বপ্নের পাতা — Arman আর Tulip এর এই অমূল্য স্মৃতি চিরকাল হৃদয়ে জ্বলজ্বল করবে।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.00 PM.jpeg", date: "Sweet Moments", title: "মিষ্টি স্মৃতি 💖", location: "Our Special Place", description: "ভালোবাসার রঙে আঁকা এই মুহূর্তগুলো Arman ও Tulip এর জীবনের সেরা অধ্যায়।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.00 PM (1).jpeg", date: "Love Story", title: "আমাদের প্রেমের গল্প 🌸", location: "Our World", description: "দুটি হৃদয়, একটি গল্প — Tulip আর Arman এর ভালোবাসার এই সুন্দর অধ্যায়।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.00 PM (2).jpeg", date: "Together", title: "পাশাপাশি সবসময় 💑", location: "Side by Side", description: "হাতে হাত রেখে এগিয়ে যাওয়ার সেই অনুভূতি — Arman ও Tulip চিরকাল পাশাপাশি।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.00 PM (3).jpeg", date: "Memories", title: "স্মৃতির ঝুলি ✨💫", location: "In Our Hearts", description: "জীবনের প্রতিটি সুন্দর মুহূর্ত Tulip ও Arman মিলে গড়ে তুলেছে এই অসাধারণ স্মৃতির ভান্ডার।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.01 PM.jpeg", date: "Pure Joy", title: "আনন্দের মুহূর্ত 😊❤️", location: "Happy Together", description: "Tulip এর হাসিতে Arman এর সারাদিনের ক্লান্তি মুছে যায়।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.01 PM (1).jpeg", date: "Beautiful", title: "সৌন্দর্যের প্রতিচ্ছবি 🌺", location: "Captured Forever", description: "Tulip এর এই সৌন্দর্য ক্যামেরায় বন্দী হলেও তার আসল রূপ Arman এর হৃদয়ে চিরকালের জন্য আঁকা।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.01 PM (2).jpeg", date: "Cherished", title: "হৃদয়ের ধন 💎❤️", location: "Most Precious", description: "জীবনের সবচেয়ে মূল্যবান মুহূর্তগুলো এভাবেই ধরা থাকে — Arman ও Tulip এর এই অনন্য স্মৃতি।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.02 PM.jpeg", date: "Magic", title: "জাদুকরী মুহূর্ত ✨🌟", location: "Magical Times", description: "কিছু মুহূর্ত থাকে যা জাদুর মতো — Tulip আর Arman এর এই সময়গুলো তেমনই সুন্দর।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.02 PM (1).jpeg", date: "Lovely", title: "ভালোবাসার আলো 💡❤️", location: "Light of Love", description: "Tulip ই Arman এর জীবনের সবচেয়ে উজ্জ্বল আলো।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.02 PM (2).jpeg", date: "Unforgettable", title: "অবিস্মরণীয় স্মৃতি 🎴", location: "Forever Remembered", description: "এই মুহূর্তটি Arman কখনো ভুলতে পারবে না — Tulip এর সাথে কাটানো প্রতিটি ক্ষণ অমূল্য।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.02 PM (3).jpeg", date: "Endless", title: "অন্তহীন ভালোবাসা ♾️❤️", location: "Love Without Limits", description: "Arman ও Tulip এর ভালোবাসার কোনো শেষ নেই।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.03 PM.jpeg", date: "Precious", title: "অনমূল্য এই সময় 🌹", location: "Time Well Spent", description: "প্রতিটি সেকেন্ড Tulip এর সাথে কাটানো Arman এর জীবনের সেরা বিনিয়োগ।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.03 PM (1).jpeg", date: "Happiness", title: "সুখের ঠিকানা 🏠💕", location: "Where Happiness Lives", description: "Tulip যেখানে থাকে সেটাই Arman এর ঘর।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.04 PM.jpeg", date: "Bright Eyes", title: "চোখের আলো 👁️✨", location: "In Your Beautiful Eyes", description: "Tulip এর সেই উজ্জ্বল চোখের দিকে তাকালে Arman ভুলে যায় পৃথিবীর সব কষ্ট।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.04 PM (1).jpeg", date: "Smile", title: "তোমার হাসি আমার শক্তি 😊💪", location: "Powered by Your Smile", description: "Tulip এর একটি হাসিই Arman কে সারাদিনের জন্য শক্তি দেয়।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.04 PM (2).jpeg", date: "Beautiful Soul", title: "সুন্দর মনের মানুষ 💫🌸", location: "Pure Heart", description: "Tulip শুধু বাইরে নয়, ভেতরেও অসাধারণ সুন্দর — সেই সৌন্দর্যেই Arman প্রতিদিন প্রেমে পড়ে।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.04 PM (3).jpeg", date: "Dream", title: "স্বপ্নের মানুষ 🌙💭", location: "My Dream Come True", description: "Arman এর সব স্বপ্নের মধ্যে সেরা স্বপ্ন ছিল Tulip।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.05 PM.jpeg", date: "Together Always", title: "সবসময় একসাথে 🤝❤️", location: "Always By Your Side", description: "হাসিতে, কান্নায় — Arman সবসময় Tulip এর পাশে থাকবে।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.06 PM.jpeg", date: "Warmth", title: "উষ্ণ অনুভূতি 🔥💖", location: "Warm and Cozy", description: "Tulip এর সাথে থাকলে Arman এর মনে এক অদ্ভুত উষ্ণতা অনুভূত হয়।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.06 PM (1).jpeg", date: "Stars", title: "তারার আলোয় 🌟💑", location: "Under the Stars", description: "তারার মতোই Tulip Arman এর জীবনে আলো দিয়ে আসে।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.06 PM (2).jpeg", date: "Forever", title: "চিরকালের জন্য 🔒💕", location: "Bound Forever", description: "Arman ও Tulip এর এই বন্ধন চিরকালের।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.07 PM.jpeg", date: "My World", title: "আমার পুরো পৃথিবী 🌍❤️", location: "My Entire Universe", description: "Tulip ই Arman এর পুরো পৃথিবী — তাকে ছাড়া এই জীবন অর্থহীন।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.07 PM (1).jpeg", date: "Eternal", title: "চিরন্তন ভালোবাসা ♾️🌹", location: "Love Eternal", description: "সময় পরিবর্তন হবে, কিন্তু Arman এর Tulip এর প্রতি ভালোবাসা কখনো পরিবর্তন হবে না।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.07 PM (2).jpeg", date: "Special", title: "বিশেষ একজন 👑💖", location: "One in a Million", description: "Tulip হলো সেই বিশেষ একজন যাকে কোটি মানুষের ভিড়েও সহজেই আলাদা করা যায়।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.07 PM (3).jpeg", date: "Grateful", title: "কৃতজ্ঞতার অনুভূতি 🙏❤️", location: "Thankful Every Day", description: "Arman প্রতিদিন কৃতজ্ঞ যে তার জীবনে Tulip আছে।" },
+        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.08 PM.jpeg", date: "Our Story", title: "আমাদের গল্পের শেষ নেই 📖❤️", location: "To Be Continued...", description: "Arman ও Tulip এর এই প্রেমের গল্প কখনো শেষ হয় না — প্রতিদিন নতুন অধ্যায় যোগ হয়।" }
     ],
 
     timeline: [
@@ -130,7 +157,7 @@ and choose you more with every passing second.`,
         {
             date: "02",
             title: "The First Glance",
-            description: "When Sayadul saw Mim and the entire world stood still."
+            description: "When Arman saw Tulip and the entire world stood still."
         },
         {
             date: "03",
@@ -151,11 +178,11 @@ and choose you more with every passing second.`,
 };
 
 /* ============================================================================
-   2. AUTHENTICATION CONFIGURATION (STRICTLY FOR MIM)
+   2. AUTHENTICATION CONFIGURATION (STRICTLY for Tulip)
    ============================================================================ */
 const LOGIN = {
-    username: "mim", // Strict username
-    validPasswords: ["forever", "sayadul", "love", "1234", "mim"]
+    username: "tulip", // Strict username
+    validPasswords: ["forever", "Arman", "love", "1234", "tulip"]
 };
 
 /* Global Application State */
@@ -585,7 +612,7 @@ function initParticles() {
 }
 
 /* ============================================================================
-   5. CINEMATIC LOGIN SYSTEM (STRICTLY FOR MIM AKTER)
+   5. CINEMATIC LOGIN SYSTEM (STRICTLY FOR Tulip Akter)
    ============================================================================ */
 function initLogin() {
     const loginSection = document.getElementById("login");
@@ -616,18 +643,18 @@ function initLogin() {
         const username = userInp.value.trim().toLowerCase();
         const password = passInp.value.trim().toLowerCase();
 
-        // 1. STRICT CHECK: ONLY MIM CAN ENTER!
+        // 1. STRICT CHECK: ONLY Tulip CAN ENTER!
         if (username !== LOGIN.username) {
             loginCard.classList.remove("shake");
             void loginCard.offsetWidth;
             loginCard.classList.add("shake");
 
-            errorBox.textContent = "Sorry! This magical universe is strictly reserved for Mim Akter ❤️. Only Mim can enter!";
+            errorBox.textContent = "Sorry! This magical universe is strictly reserved for Tulip Akter ❤️. Only Tulip can enter!";
             errorBox.classList.add("visible");
             return;
         }
 
-        // 2. Password Check: Accept any sweet password from Mim
+        // 2. Password Check: Accept any sweet password from Tulip
         const isPasswordValid = LOGIN.validPasswords.includes(password) || password.length >= 2;
 
         if (isPasswordValid) {
@@ -940,7 +967,7 @@ function initLoveLetter() {
         APP_STATE.isLetterOpen = true;
 
         envelope.classList.add("open");
-        if (statusHint) statusHint.textContent = "Written from the depths of Sayadul's heart for Mim ❤️";
+        if (statusHint) statusHint.textContent = "Written from the depths of Arman's heart for Tulip ❤️";
         if (recloseBtn) recloseBtn.classList.remove("hidden");
 
         triggerCanvasHeartBurst(window.innerWidth / 2, window.innerHeight * 0.55);
@@ -987,30 +1014,30 @@ function initLoveQuiz() {
         {
             question: "Who fell in love first?",
             options: [
-                { text: "Sayadul without a doubt! ❤️", comment: "Exactly! Sayadul was completely enchanted by Mim from the start!" },
-                { text: "Mim made the magic happen ✨", comment: "Indeed! Your sweetness made it impossible not to fall!" },
+                { text: "Arman without a doubt! ❤️", comment: "Exactly! Arman was completely enchanted by Tulip from the start!" },
+                { text: "Tulip made the magic happen ✨", comment: "Indeed! Your sweetness made it impossible not to fall!" },
                 { text: "It was instant cosmic chemistry! 🌌", comment: "True! Two souls destined to be together across time." }
             ]
         },
         {
-            question: "What is Sayadul's absolute favorite thing about Mim?",
+            question: "What is Arman's absolute favorite thing about Tulip?",
             options: [
                 { text: "Her radiant, glowing smile 😍", comment: "That smile is his favorite sight in the universe!" },
                 { text: "Her cute little anger and drama 😂", comment: "Even when you're acting dramatic, you're the cutest!" },
                 { text: "Her pure heart and caring soul ❤️", comment: "Your kindness means the world to him." },
-                { text: "All of the above and a million more! 💖", comment: "Spot on! He loves every single piece of you, Mim!" }
+                { text: "All of the above and a million more! 💖", comment: "Spot on! He loves every single piece of you, Tulip!" }
             ]
         },
         {
-            question: "When Mim feels sad or upset, what cures it best?",
+            question: "When Tulip feels sad or upset, what cures it best?",
             options: [
-                { text: "Sayadul's tight hugs & sweet apologies 🤗", comment: "His arms will always be your safe haven!" },
+                { text: "Arman's tight hugs & sweet apologies 🤗", comment: "His arms will always be your safe haven!" },
                 { text: "Her favorite treats and chocolates 🍫", comment: "Food & love always work wonders!" },
                 { text: "Endless late-night talks under the moon 🌙", comment: "Conversations with you fix everything." }
             ]
         },
         {
-            question: "How long will Sayadul love Mim?",
+            question: "How long will Arman love Tulip?",
             options: [
                 { text: "A hundred years", comment: "Too short! Much longer than that!" },
                 { text: "Until the stars run out of light ✨", comment: "Even then, his love will shine on!" },
@@ -1091,16 +1118,16 @@ function initHeartCatcherGame() {
     let score = 0;
     const target = 10;
     const loveNotes = [
-        "Mim, you are my favorite human in the world! ❤️",
-        "Your smile is Sayadul's happiest view! ✨",
-        "Sayadul loves you more than words can express! 💖",
+        "Tulip, you are my favorite human in the world! ❤️",
+        "Your smile is Arman's happiest view! ✨",
+        "Arman loves you more than words can express! 💖",
         "You're cute even when you're mad at me! 😂",
-        "Every single heartbeat belongs to you, Mim! 💓",
+        "Every single heartbeat belongs to you, Tulip! 💓",
         "My heart found its true home in you! 🌸",
         "Forever grateful that fate brought us together! 💍",
         "You make ordinary days extraordinary! ✨",
         "Holding your hand is my favorite feeling! 🤝",
-        "Sayadul + Mim = Written in the stars! 🌌"
+        "Arman + Tulip = Written in the stars! 🌌"
     ];
 
     // Basket tracking
@@ -1233,7 +1260,7 @@ function initReasons() {
             });
         } else {
             if (counterBadge) counterBadge.textContent = "Infinity & Beyond";
-            activeText.textContent = "“And in every single heartbeat, I fall for you again, Mim.”";
+            activeText.textContent = "“And in every single heartbeat, I fall for you again, Tulip.”";
             if (climaxBox) climaxBox.classList.remove("hidden");
 
             gsap.fromTo(
@@ -1294,10 +1321,10 @@ function initUniverse() {
         return new THREE.Mesh(geo, mat);
     };
 
-    const starMim = createGlowingStarMesh(0xff6f9f); // Rose Pink (Mim)
-    const starSayadul = createGlowingStarMesh(0xd8b477); // Champagne Gold (Sayadul)
+    const starMim = createGlowingStarMesh(0xff6f9f); // Rose Pink (Tulip)
+    const starArman = createGlowingStarMesh(0xd8b477); // Champagne Gold (Arman)
     scene.add(starMim);
-    scene.add(starSayadul);
+    scene.add(starArman);
 
     let mergeProgress = 0;
 
@@ -1335,16 +1362,16 @@ function initUniverse() {
         starField.rotation.x = elapsed * 0.01;
 
         const separation = (1 - Math.min(mergeProgress, 1)) * 42;
-        starMim.position.set(-separation, Math.sin(elapsed * 1.5) * 3, 0);
-        starSayadul.position.set(separation, -Math.sin(elapsed * 1.5) * 3, 0);
+        starTulip.position.set(-separation, Math.sin(elapsed * 1.5) * 3, 0);
+        starArman.position.set(separation, -Math.sin(elapsed * 1.5) * 3, 0);
 
         if (mergeProgress > 0.85) {
             const pulse = 1 + Math.sin(elapsed * 4) * 0.15;
-            starMim.scale.set(pulse, pulse, pulse);
-            starSayadul.scale.set(pulse, pulse, pulse);
+            starTulip.scale.set(pulse, pulse, pulse);
+            starArman.scale.set(pulse, pulse, pulse);
         } else {
-            starMim.scale.set(1, 1, 1);
-            starSayadul.scale.set(1, 1, 1);
+            starTulip.scale.set(1, 1, 1);
+            starArman.scale.set(1, 1, 1);
         }
 
         renderer.render(scene, camera);
@@ -2129,5 +2156,6 @@ document.addEventListener("DOMContentLoaded", () => {
         }, 1200);
     }
 
-    console.log("Our Story ❤️ loaded for Md Sayadul Islam & Mim Akter. Ready for romance.");
+    console.log("Our Story ❤️ loaded for Md Arman & Tulip Akter. Ready for romance.");
 });
+
