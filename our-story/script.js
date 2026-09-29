@@ -49,60 +49,222 @@ and choose you more with every passing second.`,
     ],
 
     memories: [
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.28.59 PM.jpeg", date: "Arman & Tulip", title: "আমাদের মুহূর্ত ❤️✨", location: "Together Forever", description: "প্রতিটি মুহূর্ত যেন একটি স্বপ্নের পাতা — Arman আর Tulip এর এই অমূল্য স্মৃতি চিরকাল হৃদয়ে জ্বলজ্বল করবে।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.00 PM.jpeg", date: "Sweet Moments", title: "মিষ্টি স্মৃতি 💖", location: "Our Special Place", description: "ভালোবাসার রঙে আঁকা এই মুহূর্তগুলো Arman ও Tulip এর জীবনের সেরা অধ্যায়।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.00 PM (1).jpeg", date: "Love Story", title: "আমাদের প্রেমের গল্প 🌸", location: "Our World", description: "দুটি হৃদয়, একটি গল্প — Tulip আর Arman এর ভালোবাসার এই সুন্দর অধ্যায়।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.00 PM (2).jpeg", date: "Together", title: "পাশাপাশি সবসময় 💑", location: "Side by Side", description: "হাতে হাত রেখে এগিয়ে যাওয়ার সেই অনুভূতি — Arman ও Tulip চিরকাল পাশাপাশি।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.00 PM (3).jpeg", date: "Memories", title: "স্মৃতির ঝুলি ✨💫", location: "In Our Hearts", description: "জীবনের প্রতিটি সুন্দর মুহূর্ত Tulip ও Arman মিলে গড়ে তুলেছে এই অসাধারণ স্মৃতির ভান্ডার।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.01 PM.jpeg", date: "Pure Joy", title: "আনন্দের মুহূর্ত 😊❤️", location: "Happy Together", description: "Tulip এর হাসিতে Arman এর সারাদিনের ক্লান্তি মুছে যায়।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.01 PM (1).jpeg", date: "Beautiful", title: "সৌন্দর্যের প্রতিচ্ছবি 🌺", location: "Captured Forever", description: "Tulip এর এই সৌন্দর্য ক্যামেরায় বন্দী হলেও তার আসল রূপ Arman এর হৃদয়ে চিরকালের জন্য আঁকা।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.01 PM (2).jpeg", date: "Cherished", title: "হৃদয়ের ধন 💎❤️", location: "Most Precious", description: "জীবনের সবচেয়ে মূল্যবান মুহূর্তগুলো এভাবেই ধরা থাকে — Arman ও Tulip এর এই অনন্য স্মৃতি।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.02 PM.jpeg", date: "Magic", title: "জাদুকরী মুহূর্ত ✨🌟", location: "Magical Times", description: "কিছু মুহূর্ত থাকে যা জাদুর মতো — Tulip আর Arman এর এই সময়গুলো তেমনই সুন্দর।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.02 PM (1).jpeg", date: "Lovely", title: "ভালোবাসার আলো 💡❤️", location: "Light of Love", description: "Tulip ই Arman এর জীবনের সবচেয়ে উজ্জ্বল আলো।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.02 PM (2).jpeg", date: "Unforgettable", title: "অবিস্মরণীয় স্মৃতি 🎴", location: "Forever Remembered", description: "এই মুহূর্তটি Arman কখনো ভুলতে পারবে না — Tulip এর সাথে কাটানো প্রতিটি ক্ষণ অমূল্য।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.02 PM (3).jpeg", date: "Endless", title: "অন্তহীন ভালোবাসা ♾️❤️", location: "Love Without Limits", description: "Arman ও Tulip এর ভালোবাসার কোনো শেষ নেই।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.03 PM.jpeg", date: "Precious", title: "অনমূল্য এই সময় 🌹", location: "Time Well Spent", description: "প্রতিটি সেকেন্ড Tulip এর সাথে কাটানো Arman এর জীবনের সেরা বিনিয়োগ।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.03 PM (1).jpeg", date: "Happiness", title: "সুখের ঠিকানা 🏠💕", location: "Where Happiness Lives", description: "Tulip যেখানে থাকে সেটাই Arman এর ঘর।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.04 PM.jpeg", date: "Bright Eyes", title: "চোখের আলো 👁️✨", location: "In Your Beautiful Eyes", description: "Tulip এর সেই উজ্জ্বল চোখের দিকে তাকালে Arman ভুলে যায় পৃথিবীর সব কষ্ট।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.04 PM (1).jpeg", date: "Smile", title: "তোমার হাসি আমার শক্তি 😊💪", location: "Powered by Your Smile", description: "Tulip এর একটি হাসিই Arman কে সারাদিনের জন্য শক্তি দেয়।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.04 PM (2).jpeg", date: "Beautiful Soul", title: "সুন্দর মনের মানুষ 💫🌸", location: "Pure Heart", description: "Tulip শুধু বাইরে নয়, ভেতরেও অসাধারণ সুন্দর — সেই সৌন্দর্যেই Arman প্রতিদিন প্রেমে পড়ে।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.04 PM (3).jpeg", date: "Dream", title: "স্বপ্নের মানুষ 🌙💭", location: "My Dream Come True", description: "Arman এর সব স্বপ্নের মধ্যে সেরা স্বপ্ন ছিল Tulip।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.05 PM.jpeg", date: "Together Always", title: "সবসময় একসাথে 🤝❤️", location: "Always By Your Side", description: "হাসিতে, কান্নায় — Arman সবসময় Tulip এর পাশে থাকবে।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.06 PM.jpeg", date: "Warmth", title: "উষ্ণ অনুভূতি 🔥💖", location: "Warm and Cozy", description: "Tulip এর সাথে থাকলে Arman এর মনে এক অদ্ভুত উষ্ণতা অনুভূত হয়।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.06 PM (1).jpeg", date: "Stars", title: "তারার আলোয় 🌟💑", location: "Under the Stars", description: "তারার মতোই Tulip Arman এর জীবনে আলো দিয়ে আসে।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.06 PM (2).jpeg", date: "Forever", title: "চিরকালের জন্য 🔒💕", location: "Bound Forever", description: "Arman ও Tulip এর এই বন্ধন চিরকালের।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.07 PM.jpeg", date: "My World", title: "আমার পুরো পৃথিবী 🌍❤️", location: "My Entire Universe", description: "Tulip ই Arman এর পুরো পৃথিবী — তাকে ছাড়া এই জীবন অর্থহীন।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.07 PM (1).jpeg", date: "Eternal", title: "চিরন্তন ভালোবাসা ♾️🌹", location: "Love Eternal", description: "সময় পরিবর্তন হবে, কিন্তু Arman এর Tulip এর প্রতি ভালোবাসা কখনো পরিবর্তন হবে না।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.07 PM (2).jpeg", date: "Special", title: "বিশেষ একজন 👑💖", location: "One in a Million", description: "Tulip হলো সেই বিশেষ একজন যাকে কোটি মানুষের ভিড়েও সহজেই আলাদা করা যায়।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.07 PM (3).jpeg", date: "Grateful", title: "কৃতজ্ঞতার অনুভূতি 🙏❤️", location: "Thankful Every Day", description: "Arman প্রতিদিন কৃতজ্ঞ যে তার জীবনে Tulip আছে।" },
-        { image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.08 PM.jpeg", date: "Our Story", title: "আমাদের গল্পের শেষ নেই 📖❤️", location: "To Be Continued...", description: "Arman ও Tulip এর এই প্রেমের গল্প কখনো শেষ হয় না — প্রতিদিন নতুন অধ্যায় যোগ হয়।" }
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.28.59 PM.jpeg",
+            date: "Green Serenity",
+            title: "সবুজ মাঠ আর কানের ফুল 🌼🌾",
+            location: "প্রকৃতির কোলে",
+            description: "খোলা আকাশের নিচে সবুজ ঘাসের বুকে বসে থাকা। টিউলিপের কানে গুঁজে দেওয়া সেই হলুদ ফুলটি যেন প্রকৃতির সব রূপ এক পলকে এনে দিয়েছিল।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.00 PM.jpeg",
+            date: "Breeze & Smiles",
+            title: "বাতাসে উড়ো চুল আর মিষ্টি হাসি 🍃✨",
+            location: "উন্মুক্ত আকাশ",
+            description: "বাতাসের দোলায় উড়ে যাওয়া তোমার চুল আর ঠোঁটের কোণে লেগে থাকা সেই মিষ্টি অমলিন হাসি—এ যেন পৃথিবীর সবচেয়ে শান্তির দৃশ্য।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.00 PM (1).jpeg",
+            date: "Late Night Call",
+            title: "দূরত্বের মাঝেও ভিডিও কল 📱🌙",
+            location: "পর্দার ওপারে",
+            description: "রাত যত গভীর হতো, স্ক্রিনের ওপারে তোমার ক্লান্ত কিন্তু ভালোবাসায় ভরা মুখটা দেখে সারাদিনের ক্লান্তি নিমেষেই হারিয়ে যেত।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.00 PM (2).jpeg",
+            date: "Cozy Warmth",
+            title: "একান্ত আপন কিছু মুহূর্ত 🛋️❤️",
+            location: "আমাদের নিজস্ব ভুবন",
+            description: "পাশাপাশি শুয়ে থাকা, কোনো তাড়া নেই, কোনো ক্লান্তি নেই—শুধু দুজন দুজনের সান্নিধ্যে পৃথিবীর সবচেয়ে নিরাপদ আশ্রয় খুঁজে পাওয়া।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.00 PM (3).jpeg",
+            date: "Festive Vibes",
+            title: "শাড়ি আর রুপালি ঝুমকা 🥻🌸",
+            location: "সবুজ ছায়াতলে",
+            description: "গাঢ় রঙের শাড়ি আর কানের দুল দুলিয়ে যখন আমার পাশে এসে দাঁড়ালে, সেদিন যেন পুরো প্রকৃতি তোমাকে দেখে ঈর্ষা করছিল।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.01 PM.jpeg",
+            date: "Bridge of Love",
+            title: "রঙিন ঝুলন্ত ব্রিজে হাত ধরে 🌉🌿",
+            location: "ঝুলন্ত ব্রিজ",
+            description: "নিচে বয়ে চলা জল আর দোলায়মান রঙিন ব্রিজে তোমার হাত শক্ত করে ধরে হাঁটা—সেদিন মনে হয়েছিল জীবনের পথটাও এভাবে একসাথে পার হব।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.01 PM (1).jpeg",
+            date: "Cute Outing",
+            title: "নীল চুড়ি আর খুনসুটি 💙☕",
+            location: "ক্যাফে কর্নার",
+            description: "হাতে পরা নীল কাচের রিনিঝিনি চুড়ি আর গালে হাত দিয়ে তাকিয়ে থাকা—তোমার এই মিষ্টি চাহনিতেই আরমান বারবার ধরাশায়ী।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.01 PM (2).jpeg",
+            date: "Campus Days",
+            title: "ক্যাম্পাসের ছায়াতলে প্রথম হাঁটা 🏫🍃",
+            location: "BAUST প্রাঙ্গণ",
+            description: "ক্যাম্পাসের পরিচিত গাছঘেরা পিচঢালা পথ, ক্লাস ফাঁকি দিয়ে চুপিচুপি দুজনার একসঙ্গে হেঁটে যাওয়া সেই সোনালী দিনগুলো।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.02 PM.jpeg",
+            date: "Sunlit Glow",
+            title: "রোদের ঝিলিক আর কপালে কালো টিপ ☀️🖤",
+            location: "বৃক্ষছায়ায়",
+            description: "গাছের পাতার ফাঁক দিয়ে ঠিকরে আসা নরম রোদ তোমার মুখে পড়ছিল, আর কপালে থাকা ছোট্ট কালো টিপটা মন কেড়ে নিচ্ছিল বারবার।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.02 PM (1).jpeg",
+            date: "Pure Adoration",
+            title: "চোখে চোখ রেখে অপলক তাকানো 👁️💫",
+            location: "অনুভবের সীমানা",
+            description: "আমার দিকে তোমার সেই মায়াবী চোখে তাকিয়ে থাকা—যেখানে কোনো মিথ্যে নেই, আছে কেবল বুকভরা অকৃত্রিম ভালোবাসা।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.02 PM (2).jpeg",
+            date: "Peaceful Rest",
+            title: "কাঁধে মাথা রেখে পরম শান্তি 🫂🤍",
+            location: "আমার কাঁধ, তোমার আশ্রয়",
+            description: "আমার কাঁধে যখন তোমার মাথাটি এলিয়ে দিলে, মনে হলো পৃথিবীর সব ঝড় থেমে গেছে। এই নির্ভরতার চেয়ে বড় প্রাপ্তি আর কী হতে পারে!"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.02 PM (3).jpeg",
+            date: "University Life",
+            title: "আমাদের ভালোবাসার ক্যাম্পাস 🎓🏛️",
+            location: "BAUST মেইন ক্যাম্পাস",
+            description: "যে ক্যাম্পাসে আমাদের স্বপ্নের শুরু, যেখানে প্রতিটি ইট আর করিডোর সাক্ষী হয়ে আছে আমাদের হাজারো না-বলা কথার।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.03 PM.jpeg",
+            date: "Mirror Selfie",
+            title: "নীল শাড়িতে আয়নার সেলফি 🪞💙",
+            location: "করিডোরের আয়না",
+            description: "নীল শাড়ি আর নীল কাচের চুড়িতে তুমি সেদিন অপরূপা। আয়নার ফ্রেমে ধরা পড়া আমাদের এই সাজ চিরকাল অমলিন হয়ে থাকবে।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.03 PM (1).jpeg",
+            date: "Winter Walk",
+            title: "শীতের সকালে চাদর জড়িয়ে 🧣❄️",
+            location: "কুয়াশাঘেরা পথ",
+            description: "হালকা শীতের আমেজে চাদর মুড়িয়ে পাশে বসে থাকা। কনকনে ঠান্ডাতেও তোমার মিষ্টি উপস্থিতিতে চারপাশে এক উষ্ণ অনুভূতি ছড়াত।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.04 PM.jpeg",
+            date: "Golden Saree",
+            title: "হলুদ শাড়িতে বসন্তের ছোঁয়া 💛🎋",
+            location: "বাঁশবাগানের ধারে",
+            description: "হলুদ শাড়িতে তোমাকে দেখে মনে হয়েছিল বসন্ত বুঝি নিজেই ধরা দিয়েছে। আমার হাতটা ধরে তোমার সেই মায়াবী করে দাঁড়িয়ে থাকা।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.04 PM (1).jpeg",
+            date: "Warm Embrace",
+            title: "গাঢ় আলিঙ্গনে ভালোবাসার উষ্ণতা 🤗🌲",
+            location: "বনের নিস্তব্ধতায়",
+            description: "বুকের ভেতর জড়িয়ে ধরার সেই মুহূর্ত—যেখানে সব শব্দ স্তব্ধ হয়ে শুধু দুটি হৃদস্পন্দন এক হয়ে বাজছিল।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.04 PM (2).jpeg",
+            date: "Cheek to Cheek",
+            title: "গা ঘেঁষে দাঁড়ানো মিষ্টি খুনসুটি 🥰🌸",
+            location: "মিষ্টি বিকেল",
+            description: "গোলাপি স্কার্ফে তোমার নিষ্পাপ মুখ আর আমার দুষ্টুমি ভরা চাহনি—এই ছোট ছোট স্মৃতিগুলোই আমাদের ভালোবাসার শ্রেষ্ঠ সম্পদ।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.04 PM (3).jpeg",
+            date: "Pure Smiles",
+            title: "তোমার ওই প্রাণখোলা অমলিন হাসি 😁✨",
+            location: "হাসির ঝিলিক",
+            description: "যখনই তুমি এভাবে প্রাণখুলে হাসো, মনে হয় পুরো পৃথিবীটাই উজ্জ্বল হয়ে উঠেছে। এই হাসি যেন কোনোদিন ম্লান না হয়।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.05 PM.jpeg",
+            date: "Sweet Kiss",
+            title: "গালে আলতো ভালোবাসার পরশ 💋💕",
+            location: "অনুভবের গভীরে",
+            description: "গালে আলতো চুমুর স্পর্শে তোমার লজ্জা মাখা মিষ্টি হাসি। ভালোবাসার এই নীরব প্রকাশ চিরকাল হৃদয়ে অমূল্য রতন হয়ে থাকবে।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.06 PM.jpeg",
+            date: "Night Lights",
+            title: "রাতের আলোয় কনসার্টের মাঠে 🌃🎶",
+            location: "আলো ঝলমলে মাঠ",
+            description: "হালকা শীতের রাতে ফ্লাডলাইটের আলোয় খোলা মাঠে তোমার সাথে সময় কাটানো। চারপাশের কোলাহল ভুলে তখন কেবল তুমি আর আমি।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.06 PM (1).jpeg",
+            date: "Silly Moments",
+            title: "উল্টো চোখে দুষ্টুমি আর ভালোবাসা 🤪💖",
+            location: "মজার মুহূর্ত",
+            description: "মাথা কাত করে তোমার সেই চঞ্চল খুনসুটি আর হাসিমুখ। তোমার এই পাগলামি আর দুষ্টুমিগুলোই আমার প্রতিদিনের হাসির কারণ।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.06 PM (2).jpeg",
+            date: "Airport Dreams",
+            title: "এয়ারপোর্টের চত্বরে নতুন স্বপ্নের শুরু ✈️🏢",
+            location: "ঢাকা এয়ারপোর্ট",
+            description: "এয়ারপোর্টের সামনে দাঁড়িয়ে একসঙ্গে দূর দেশে পাড়ি জমানোর স্বপ্ন দেখা। হাত ধরে পুরো পৃথিবী ঘুরে দেখার অঙ্গীকার।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.07 PM.jpeg",
+            date: "The Red Rose",
+            title: "হাতে হাত আর রক্তিম গোলাপ 🌹💍",
+            location: "ভালোবাসার প্রতিশ্রুতি",
+            description: "তোমার হাতে আমার হাত আর মাঝে রক্তিম তাজা গোলাপ। এই পাপড়ির মতোই সতেজ আর পবিত্র আমাদের ভালোবাসার চিরন্তন বন্ধন।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.07 PM (1).jpeg",
+            date: "Mehendi Hands",
+            title: "মেহেদি রাঙা হাত আর নির্ভরতা 🌿💅",
+            location: "ইটের দেয়ালের পাশে",
+            description: "মেহেদির রঙে রাঙানো তোমার হাতটি যখন আমার কাঁধ স্পর্শ করেছিল, মনে হয়েছিল দুটি জীবনের ভাগ্যরেখা এক বিন্দুতে মিলে গেছে।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.07 PM (2).jpeg",
+            date: "Candid Laughter",
+            title: "তোমার লাজুক হাসি আর মধুর চাহনি 🙈💚",
+            location: "গাছের ছায়ায়",
+            description: "গালে হাত দিয়ে তোমার ওই লাজুক হাসিমুখ আর আড়চোখে তাকানো—আমার দিকে তাকিয়ে হাসা এই মুখটিই আমার বেঁচে থাকার সেরা অনুপ্রেরণা।"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.07 PM (3).jpeg",
+            date: "Childhood Days",
+            title: "শৈশবের সেই নিষ্পাপ দিনগুলো 👶👧",
+            location: "স্মৃতির উৎস",
+            description: "ছোট্ট বেলার সেই নিষ্পাপ দিনগুলোতে কে জানত, বিধাতা সেই তখনই আমাদের ভাগ্য এক সুতোয় বেঁধে রেখেছিলেন!"
+        },
+        {
+            image: "assets/images/WhatsApp Image 2026-09-29 at 7.29.08 PM.jpeg",
+            date: "Little Princess",
+            title: "গোলাপি ফ্রকে ছোট্ট পরী 👗🎀",
+            location: "শৈশবের অ্যালবাম",
+            description: "গোলাপি ফ্রক পরা ছোট্ট রাজকন্যা টিউলিপ—আজ এত বছর পর সে আমার জীবনের সম্রাজ্ঞী ও ভালোবাসার একমাত্র ঠিকানা।"
+        }
     ],
 
     timeline: [
         {
             date: "01",
-            title: "First Conversation",
-            description: "The very first message that started our magical universe."
+            title: "শৈশবের সেই প্রথম দেখা",
+            description: "ছোট্ট বেলার সেই নিষ্পাপ স্মৃতি, যেখানে অজান্তেই বাঁধা পড়েছিল দুটি জীবনের সুতো।"
         },
         {
             date: "02",
-            title: "The First Glance",
-            description: "When Arman saw Tulip and the entire world stood still."
+            title: "ক্যাম্পাসের প্রথম আলাপ",
+            description: "BAUST ক্যাম্পাসের গাছঘেরা পথে প্রথম কথা বলা এবং মনের অজান্তেই প্রেমে পড়া।"
         },
         {
             date: "03",
-            title: "First Photo Together",
-            description: "One picture capturing a thousand unspoken feelings."
+            title: "পাশাপাশি প্রথম ছবি",
+            description: "একটি ছবি যা ক্যামেরার ফ্রেমে বন্দী করেছিল আমাদের না-বলা ভালোবাসার হাজারো অনুভূতি।"
         },
         {
             date: "04",
-            title: "Our Special Day",
-            description: "A celebration of our promise to stay together forever."
+            title: "আমাদের ২ বছর অ্যানিভার্সারি",
+            description: "৩০ সেপ্টেম্বর — দুটি বছরের অনন্ত ভালোবাসা, মিষ্টি মান-অভিমান আর আজীবন পাশে থাকার অঙ্গীকার।"
         },
         {
             date: "05",
-            title: "Today & For Eternity",
-            description: "And here we are, choosing each other every single day."
+            title: "অনন্তকালের পথচলা",
+            description: "আজ, কাল এবং চিরকাল — প্রতিটি পলকে তোমাকেই নতুন করে বেছে নেওয়া।"
         }
     ]
 };
@@ -2088,4 +2250,3 @@ document.addEventListener("DOMContentLoaded", () => {
 
     console.log("Our Story ❤️ loaded for Arman & Tulip. Ready for romance.");
 });
-
