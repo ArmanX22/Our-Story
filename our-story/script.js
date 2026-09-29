@@ -1,7 +1,7 @@
 /**
  * ============================================================================
  * OUR STORY ❤️ — A CINEMATIC ROMANTIC STORYBOOK JOURNEY
- * DEDICATED TO: Md Arman & Tulip Akter
+ * DEDICATED TO: Arman & Tulip
  * ============================================================================
  */
 
@@ -9,9 +9,9 @@
    1. CENTRAL CONFIGURATION
    ============================================================================ */
 const CONFIG = {
-    coupleName1: "Md Arman",
-    coupleName2: "Tulip Akter",
-    anniversaryDate: "2026-09-16T00:00:00",
+    coupleName1: "Arman",
+    coupleName2: "Tulip",
+    anniversaryDate: "2026-09-30T00:00:00",
 
     profilePhoto: "assets/images/WhatsApp Image 2026-09-29 at 7.28.59 PM.jpeg",
     backgroundMusic: "assets/music/song.mp3?v=20260911_05",
@@ -542,7 +542,7 @@ function initParticles() {
 }
 
 /* ============================================================================
-   5. CINEMATIC LOGIN SYSTEM (STRICTLY FOR Tulip Akter)
+   5. CINEMATIC LOGIN SYSTEM (STRICTLY FOR Tulip)
    ============================================================================ */
 function initLogin() {
     const loginSection = document.getElementById("login");
@@ -579,7 +579,7 @@ function initLogin() {
             void loginCard.offsetWidth;
             loginCard.classList.add("shake");
 
-            errorBox.textContent = "Sorry! This magical universe is strictly reserved for Tulip Akter ❤️. Only Tulip can enter!";
+            errorBox.textContent = "Sorry! This magical universe is strictly reserved for Tulip ❤️. Only Tulip can enter!";
             errorBox.classList.add("visible");
             return;
         }
@@ -1345,7 +1345,7 @@ function initCountdown() {
     const targetTime = new Date(CONFIG.anniversaryDate).getTime();
     if (dateLabel) {
         const dateObj = new Date(CONFIG.anniversaryDate);
-        dateLabel.textContent = `Target: ${dateObj.toLocaleDateString(undefined, { year: 'numeric', month: 'long', day: 'numeric' })}`;
+        dateLabel.textContent = "September 30, 2026 — Celebrating Our 2 Year Anniversary ❤️";
     }
 
     let lastS = -1;
@@ -1446,11 +1446,11 @@ function initFinalSurprise() {
                 });
 
                 // Typewriter messages with dramatic pauses
-                typeWriterText(headMsg, `Happy Anniversary, ${CONFIG.coupleName2} ❤️`, 45, () => {
+                typeWriterText(headMsg, `Happy 2nd Anniversary, ${CONFIG.coupleName2} ❤️`, 45, () => {
                     setTimeout(() => {
                         typeWriterText(line1, "Thank you for being my favorite part of life.", 35, () => {
                             setTimeout(() => {
-                                typeWriterText(line2, "Every year with you is another chapter I never want to end.", 35, () => {
+                                typeWriterText(line2, "Two beautiful years of love, laughs, and magic — and forever more to go.", 35, () => {
                                     setTimeout(() => {
                                         typeWriterText(vowMsg, "Forever & Always Yours ❤️", 45, () => {
                                             namesCross.textContent = `${CONFIG.coupleName1} ❤️ ${CONFIG.coupleName2}`;
@@ -2086,6 +2086,6 @@ document.addEventListener("DOMContentLoaded", () => {
         }, 1200);
     }
 
-    console.log("Our Story ❤️ loaded for Md Arman & Tulip Akter. Ready for romance.");
+    console.log("Our Story ❤️ loaded for Arman & Tulip. Ready for romance.");
 });
 
